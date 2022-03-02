@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p>Desenvolvedor focado em front-end, atualmente com estudos direcionados a JavaScript e React JS.</p>
-<p>Sou assíduo em sempre aprender algo novo, além de ser interessado pelo mercado financeiro e novidades sobre a aplicação da tecnologia</p>
+<p>Front-end focused developer, currently studying Vanilla JavaScript and React JS.</p>
+<p>I'm always determined to learn something new. Furthermore, i have interest on financial market and the inovations about technology applications</p>
 
 ##
 
