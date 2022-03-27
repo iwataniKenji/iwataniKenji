@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Front-end focused developer, currently studying React JS and Typescript on "Ignite" from "Rocketseat" and practicing new skills on daily basis.</p>
+<p>Front-end developer, currently studying React JS and Typescript on "Ignite" from "Rocketseat" and practicing new skills on daily basis.</p>
 <p>I'm always determined to learn something new. Furthermore, i have interest on financial market and the inovations about technology applications</p>
 
 ##
