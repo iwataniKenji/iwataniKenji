@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>Front-end developer, currently studying NodeJS, React JS and Typescript on "Ignite" from "Rocketseat" and practicing new skills on daily basis.</p>
-<p>I'm always determined to learn something new. Furthermore, i have interest on financial market and the inovations about technology applications</p>
+<p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
 
 ##
 
