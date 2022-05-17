@@ -29,7 +29,8 @@
   <a href = "https://www.linkedin.com/in/kleverson-kenji-iwatani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kleversonkenji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kleverson.iwatani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+  <a href="https://app.rocketseat.com.br/me/kleverson-kenji-iwatani-05940" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+  
   ![Snake animation](https://github.com/iwatanikenji/iwatanikenji/blob/output/github-contribution-grid-snake.svg)
 </div>
 
