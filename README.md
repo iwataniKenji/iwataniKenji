@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Front-end developer, currently studying NodeJS, React JS and Typescript on "Ignite" from "Rocketseat" and practicing new skills on daily basis.</p>
+<p>Front-end developer, currently studying Angular Framework  and NestJS, practicing new skills on daily basis.</p>
 <p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
 
 ##
