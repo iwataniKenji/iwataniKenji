@@ -12,6 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="kenji-angular" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="kenji-nextjs" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="kenji-reactjs" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="kenji-ts" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
