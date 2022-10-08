@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<p>Front-end developer, currently studying Angular Framework  and NestJS, practicing new skills on daily basis.</p>
-<p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
+<p>Front-end developer, currently focusing on ReactJS and its good practices on project architecture, practicing new skills on daily basis.</p>
+<p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity, and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
+<p>My current goals are to improve as fast as I can, accepting the challenges that comes and, of course, being always open to study new technologies.</p>
 
 ##
 
@@ -26,6 +27,8 @@
   <img align="center" alt="kenji-mui" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
   <img align="center" alt="kenji-sass" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
+  
+  <img align="center" alt="kenji-c" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="kenji-c" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="kenji-git" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="kenji-figma" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
