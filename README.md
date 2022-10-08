@@ -27,8 +27,7 @@
   <img align="center" alt="kenji-mui" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
   <img align="center" alt="kenji-sass" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
-  
-  <img align="center" alt="kenji-c" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="kenji-java" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="kenji-c" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="kenji-git" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="kenji-figma" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
