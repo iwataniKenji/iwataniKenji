@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Front-end developer, currently focusing on ReactJS and its good practices on project architecture, practicing new skills on daily basis.</p>
+<p>Full stack developer, currently focusing on NestJS and its good practices on project architecture, practicing new skills on daily basis.</p>
 <p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity, and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
 <p>My current goals are to improve as fast as I can, accepting the challenges that comes and, of course, being always open to study new technologies.</p>
 
