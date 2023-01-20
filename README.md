@@ -4,14 +4,6 @@
 <p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity, and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
 <p>My current goals are to improve as fast as I can, accepting the challenges that comes and, of course, being always open to study new technologies.</p>
 
-##
-
-<div align="center">
-  <a href="https://github.com/iwatanikenji" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iwatanikenji&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwatanikenji&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
-  
 <p>Currently using:</p>
 <div style="display: inline_block">
   <img align="center" alt="kenji-reactjs" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -47,8 +39,17 @@
   <img align="center" alt="kenji-sass" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 </div>
+
+##
+
+<br>
+<div align="center">
+  <a href="https://github.com/iwatanikenji" target="_blank">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iwatanikenji&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwatanikenji&layout=compact&langs_count=7&theme=apprentice"/>
+</div>
   
-  ##
+##
   
 <div> 
   <a href = "https://www.linkedin.com/in/kleverson-kenji-iwatani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
