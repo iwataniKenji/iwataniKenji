@@ -16,7 +16,7 @@
   <img align="center" title="Material UI" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
   <img align="center" title="Docker" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" title="PostgreSQL" height="37,5" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" title="Amazon Web Services" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" title="Amazon Web Services" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" title="Socket IO" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 </div>
 
