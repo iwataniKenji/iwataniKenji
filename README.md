@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>Full stack developer, currently focusing on NestJS and its good practices on project architecture, practicing new skills on daily basis.</p>
-<p>I consider myself a curious, organized, detail-oriented and focused person, who is always looking for productivity, and who also absorbs feedback easily. In addition, I have basic knowledge and interest in the financial market.</p>
-<p>My current goals are to improve as fast as I can, accepting the challenges that comes and, of course, being always open to study new technologies.</p>
+<p>Full Stack Developer focused on NestJS and the application of best practices in software architecture, always committed to continuous improvement and daily learning.</p>
+<p>I consider myself a curious, organized, detail-oriented, and focused person, with a strong drive for productivity and efficiency.</p>
+<p>Furthermore, I have an interest in the capital markets and constantly seek to improve myself, maintaining an open mindset toward learning new technologies.</p>
 
 <p>Currently using:</p>
 
