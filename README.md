@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Full Stack Developer focused on NestJS and the application of best practices in software architecture, always committed to continuous improvement and daily learning.</p>
+<p>Full Stack Developer with 3+ years of experience, focused on NestJS and application of its best practices in software architecture, always committed to continuous improvement and daily learning.</p>
 <p>I consider myself a curious, organized, detail-oriented, and focused person, with a strong drive for productivity and efficiency.</p>
 <p>Furthermore, I have an interest in the capital markets and constantly seek to improve myself, maintaining an open mindset toward learning new technologies.</p>
 
